@@ -6,7 +6,7 @@
 ### Trabajo Práctico 1: Enunciado ###
 
 
-Para esta primera entrega del TP, realizaremos el análisis exploratorio del set de datos provisto por la empresa Jampp. 
+Para esta primera entrega del TP, realizaremos el análisis exploratorio del set de datos provisto por la empresa **Jampp**. 
 
 Los datos a analizar estan disponibles en https://drive.google.com/drive/folders/1-7ACCWhS3sWVh0vU273YwbS74WmzEhLa?usp=sharing
 
